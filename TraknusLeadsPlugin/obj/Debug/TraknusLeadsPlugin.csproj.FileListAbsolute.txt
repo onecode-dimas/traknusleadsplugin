@@ -1,0 +1,7 @@
+C:\Users\Dimas\Desktop\TraknusLeadsPlugin\TraknusLeadsPlugin\TraknusLeadsPlugin\bin\Debug\TraknusLeadsPlugin.dll
+C:\Users\Dimas\Desktop\TraknusLeadsPlugin\TraknusLeadsPlugin\TraknusLeadsPlugin\bin\Debug\TraknusLeadsPlugin.pdb
+C:\Users\Dimas\Desktop\TraknusLeadsPlugin\TraknusLeadsPlugin\TraknusLeadsPlugin\obj\Debug\TraknusLeadsPlugin.csproj.AssemblyReference.cache
+C:\Users\Dimas\Desktop\TraknusLeadsPlugin\TraknusLeadsPlugin\TraknusLeadsPlugin\obj\Debug\TraknusLeadsPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Dimas\Desktop\TraknusLeadsPlugin\TraknusLeadsPlugin\TraknusLeadsPlugin\obj\Debug\TraknusLeadsPlugin.csproj.CopyComplete
+C:\Users\Dimas\Desktop\TraknusLeadsPlugin\TraknusLeadsPlugin\TraknusLeadsPlugin\obj\Debug\TraknusLeadsPlugin.dll
+C:\Users\Dimas\Desktop\TraknusLeadsPlugin\TraknusLeadsPlugin\TraknusLeadsPlugin\obj\Debug\TraknusLeadsPlugin.pdb
